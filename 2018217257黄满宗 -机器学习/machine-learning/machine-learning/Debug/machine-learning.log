@@ -1,0 +1,6 @@
+﻿  machine-learning.cpp
+D:\Joker\Desktop\2018217257黄满宗 -机器学习\machine-learning\machine-learning\machine-learning.cpp(131,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Joker\Desktop\2018217257黄满宗 -机器学习\machine-learning\machine-learning\machine-learning.cpp(187,20): warning C4018: “<”: 有符号/无符号不匹配
+  SVM.cpp
+  正在生成代码...
+  machine-learning.vcxproj -> D:\Joker\Desktop\2018217257黄满宗 -机器学习\machine-learning\Debug\machine-learning.exe
